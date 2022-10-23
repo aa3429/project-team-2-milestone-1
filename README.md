@@ -1,6 +1,6 @@
-# project-team-2-milestone-1 readme file
+### project-team-2-milestone-1 readme file
 
-# Installation Instructions (Windows and MacOS)
+## Installation Instructions (Windows and MacOS)
 
 # Windows 10:
 
