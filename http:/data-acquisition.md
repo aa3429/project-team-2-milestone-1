@@ -1,6 +1,6 @@
-#To make this code work: Replace the desired URL, and give a folder name in the function call line for imagedown function and run it in Colab, images will
+# To make this code work: Replace the desired URL, and give a folder name in the function call line for imagedown function and run it in Colab, images will
 # be downloaded in the Colab local folder or PC local folder (if done with local IDE)
-#Colab Link for PyTest Substitute - https://colab.research.google.com/drive/1wC2YLKvmoxn6J1t_DKLot08GxbQozz6u?usp=sharing
+#  Colab Link for PyTest Substitute - https://colab.research.google.com/drive/1wC2YLKvmoxn6J1t_DKLot08GxbQozz6u?usp=sharing
 import requests
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
