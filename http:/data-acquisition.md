@@ -1,3 +1,4 @@
+#To make this code work: Replace the desired URL, and give a folder name in the function call line for imagedown function and run it in Colab, images will # be downloaded in the Colab local folder or PC local folder (if done with local IDE)
 #Colab Link for PyTest Substitute - https://colab.research.google.com/drive/1wC2YLKvmoxn6J1t_DKLot08GxbQozz6u?usp=sharing
 import requests
 from urllib.request import urlopen
@@ -30,4 +31,4 @@ def imagedown(url, folder):
             print('Writing: ', name)
  
 imagedown('https://www.homedepot.com/b/Bath-Bathroom-Faucets-Bathroom-Sink-Faucets-Centerset-Bathroom-Faucets/N-5yc1vZbrhk?Nao=48','faucet1')
-#replace URL and folder name in the function call line for imagedown function above
+#Replace URL and folder name in the function call line for imagedown function above
